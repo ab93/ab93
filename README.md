@@ -17,8 +17,8 @@ I build ML systems that work in the real world; from research to production. Pas
 
 | Project | Description |
 |---------|-------------|
-| [shapmonitor](https://github.com/ab93/shapmonitor) | SHAP-based model monitoring |
-| [numalogic](https://github.com/numaproj-labs/numalogic) | ML library for real-time data analytics and AIOps |
+| [shap-monitor](https://github.com/ab93/shap-monitor) | SHAP-based model monitoring |
+| [numalogic](https://github.com/numaproj/numalogic) | ML library for real-time data analytics and AIOps |
 | [numaflow-python](https://github.com/numaproj/numaflow-python) | Python SDK for Numaflow |
 
 
