@@ -42,6 +42,8 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_languages_recent_only: yes
+          plugin_languages_recent_days: 1095
           
           # Isocalendar plugin (contribution calendar)
           plugin_isocalendar: yes
