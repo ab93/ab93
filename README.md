@@ -24,6 +24,8 @@ I build ML systems that work in the real world; from research to production. Pas
 
 ### 📊 Stats
 
+<img src="/github-metrics.svg" alt="Metrics"/>
+
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ab93&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
