@@ -18,10 +18,10 @@ I build ML systems that work in the real world; from research to production. Pas
 
 | Talk | Event | Location |
 |------|-------|----------|
-| [Causal Thinking in Machine Learning](https://pydata.org/global2025/schedule) | PyData Global 2025 | Virtual |
-| [Causal Thinking in Machine Learning](https://pydata.org/seattle2025/schedule) | PyData Seattle 2025 | Seattle, WA |
-| [Interpreting ML Models using SHAP](https://pybay.org/speaking/talk-list-2025/) | PyBay 2025 | San Francisco, CA |
-| [Interpreting ML Models using SHAP](https://cfp.pydata.org/berlin2025/talk/SB88M7/) | PyData Berlin 2025 | Berlin, Germany |
+| [Causal Thinking in Machine Learning](https://www.youtube.com/watch?v=RFdN3h0G2-8) | PyData Global 2025 | Virtual |
+| [Causal Thinking in Machine Learning](https://www.youtube.com/watch?v=KhEgqEE7LDY&list=PLGVZCDnMOq0pUJzNQ51etiymPQHemYRch&index=31) | PyData Seattle 2025 | Seattle, WA |
+| [Interpreting ML Models using SHAP](https://pyvideo.org/pybay-2025/beyond-the-black-box-interpreting-ml-models-with-shap.html) | PyBay 2025 | San Francisco, CA |
+| [Interpreting ML Models using SHAP](https://www.youtube.com/watch?v=T7iVFDG1Y14) | PyData Berlin 2025 | Berlin, Germany |
 | [Interpreting ML Models using SHAP](https://youtu.be/8wZ81oyWtxc) | PyOhio 2025 | Cleveland, OH |
 | [Open Code, Open Science](https://cfp.scipy.org/scipy2025/talk/review/XKMV9XJEV7NSLV8ADCKRDFXJ9TD9KNJC) | SciPy 2025 | Tacoma, WA |
 | [Explaining ML predictions with SHAP](https://github.com/scipy-conference/scipy_proceedings/blob/2025/presentations/posters/shap_ab/scipy-poster.pdf) | SciPy 2025 (Poster) | Virtual |
