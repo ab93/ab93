@@ -2,18 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=5CC7F7&center=true&vCenter=true&width=500&lines=Hello+my+friend!+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG"/>
 </h1>
 
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ab93?style=flat-square&color=4c8eda&logo=github&label=stars" alt="GitHub Stars"/>
-  <a href="https://github.com/ab93"><img src="https://img.shields.io/github/followers/ab93?label=Followers&style=flat-square&color=blue" alt="GitHub followers"></a>
-</p>
-
 I build ML systems that work in the real world; from research to production. Passionate about open source and the scientific Python ecosystem. For me, coding is an art.
-
 
 ---
 
-### 📌 Open-source Projects
+### Open-source Projects
 
 | Project | Description |
 |---------|-------------|
@@ -21,11 +14,20 @@ I build ML systems that work in the real world; from research to production. Pas
 | [numalogic](https://github.com/numaproj/numalogic) | ML library for real-time data analytics and AIOps |
 | [numaflow-python](https://github.com/numaproj/numaflow-python) | Python SDK for Numaflow |
 
+### Technical Talks
 
-### 📊 Stats
-
-<img src="/github-metrics.svg" alt="Metrics"/>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ab93&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
+| Talk | Event | Location |
+|------|-------|----------|
+| [Causal Thinking in Machine Learning](https://pydata.org/global2025/schedule) | PyData Global 2025 | Virtual |
+| [Causal Thinking in Machine Learning](https://pydata.org/seattle2025/schedule) | PyData Seattle 2025 | Seattle, WA |
+| [Interpreting ML Models using SHAP](https://pybay.org/speaking/talk-list-2025/) | PyBay 2025 | San Francisco, CA |
+| [Interpreting ML Models using SHAP](https://cfp.pydata.org/berlin2025/talk/SB88M7/) | PyData Berlin 2025 | Berlin, Germany |
+| [Interpreting ML Models using SHAP](https://youtu.be/8wZ81oyWtxc) | PyOhio 2025 | Cleveland, OH |
+| [Open Code, Open Science](https://cfp.scipy.org/scipy2025/talk/review/XKMV9XJEV7NSLV8ADCKRDFXJ9TD9KNJC) | SciPy 2025 | Tacoma, WA |
+| [Explaining ML predictions with SHAP](https://github.com/scipy-conference/scipy_proceedings/blob/2025/presentations/posters/shap_ab/scipy-poster.pdf) | SciPy 2025 (Poster) | Virtual |
+| [Mono-repositories in Python](https://www.youtube.com/watch?v=VIlcodf9Wrg) | PyCascades 2025 | Portland, OR |
+| [Reproducible Python projects using Nix](https://youtu.be/QgQzxcPZWxA?si=CZE5lHd_9wrSVZnF) | PyData Global 2024 | Virtual |
+| [Intuit's strategy for implementing AI-driven Progressive Delivery](https://www.youtube.com/watch?v=5k8Djsjt8eA) | KubeCon NA 2024 | Salt Lake City, UT |
+| [Reproducible work environments for data scientists using Nix](https://www.youtube.com/watch?v=cDZyeEtt8kY) | PyData NYC 2024 | New York, NY |
+| [Building Efficient Containers for Python Applications](https://www.youtube.com/watch?v=x3jh0wQmMrg) | PyTexas 2024 | Austin, TX |
+| [Containerizing Python: Crafting Better and Efficient Containers](https://www.youtube.com/watch?v=MMUjFzcyIWs) | PyCascades 2024 | Seattle, WA |
