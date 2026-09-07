@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=5CC7F7&center=true&vCenter=true&width=500&lines=Hello+my+friend!+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=5CC7F7&center=true&vCenter=true&width=500&lines=Hello!+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG"/>
 </h1>
 
 I build ML systems that work in the real world; from research to production. Passionate about open source and the scientific Python ecosystem. For me, coding is an art.
