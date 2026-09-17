@@ -18,6 +18,7 @@ I build ML systems that work in the real world; from research to production. Pas
 
 | Talk                                                                                                                                                  | Event               | Location           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------ |
+| [Upgrading Python CLIs](https://www.youtube.com/watch?v=lVIPEjDVTME)                                                                                  | PyCon US, 2026.     | Long Beach, CA     |
 | [Causal Modeling for Better Decisions](https://www.youtube.com/watch?v=VrwJqbysoUU&list=PLAesBe-zAQmHnJk60Oup93ccfAwo7Jv4r)                           | AI Council, 2026    | San Francisco, CA  |
 | [Upgrading Python CLIs](https://www.youtube.com/watch?v=ZbAtJ4E9AGQ&list=PL0MRiRrXAvRh0bfHGatkL10oI682zH0-F)                                          | PyTexas 2026        | Austin, TX         |
 | [Causal Thinking in Machine Learning](https://www.youtube.com/watch?v=RFdN3h0G2-8)                                                                    | PyData Global 2025  | Virtual            |
